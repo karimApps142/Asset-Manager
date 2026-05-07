@@ -1,0 +1,18 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark navy background with rounded corners -->
+  <rect width="180" height="180" rx="32" fill="#030712"/>
+  <!-- Blue gradient accent ring -->
+  <rect width="180" height="180" rx="32" fill="url(#grad)" opacity="0.15"/>
+  <!-- "A" letter -->
+  <text x="22" y="126" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="92" fill="#2563EB" letter-spacing="-4">A</text>
+  <!-- "W" letter slightly smaller, shifted right -->
+  <text x="88" y="126" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="72" fill="white" opacity="0.92" letter-spacing="-2">W</text>
+  <!-- Blue underline accent -->
+  <rect x="22" y="138" width="136" height="6" rx="3" fill="#2563EB" opacity="0.8"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>

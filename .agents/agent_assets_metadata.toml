@@ -1,0 +1,44 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "ytRwRaVGSAtYhOPbygDrM"
+uri = "file://artifacts/ahsan-waqas/public/service-wordpress.png"
+type = "image"
+title = "wordpress service"
+
+[[generated]]
+id = "oArEp6easaEnpApuWeuML"
+uri = "file://artifacts/ahsan-waqas/public/service-seo.png"
+type = "image"
+title = "seo service"
+
+[[generated]]
+id = "MuJemTYJC8OlmZqCqa-Rg"
+uri = "file://artifacts/ahsan-waqas/public/service-woocommerce.png"
+type = "image"
+title = "woocommerce service"
+
+[[generated]]
+id = "qjlzkEs15VeUn12-ltmdw"
+uri = "file://artifacts/ahsan-waqas/public/service-speed.png"
+type = "image"
+title = "speed optimization"
+
+[[generated]]
+id = "m54tQlBK6NJVxdPaaokot"
+uri = "file://artifacts/ahsan-waqas/public/case-study-traffic.png"
+type = "image"
+title = "traffic case study"
+
+[[generated]]
+id = "owRZJcgeGtkgugvKHTmdE"
+uri = "file://artifacts/ahsan-waqas/public/case-study-local.png"
+type = "image"
+title = "local seo case study"
+
+[[generated]]
+id = "2orfse0YizwUNXcp0QQGB"
+uri = "file://artifacts/ahsan-waqas/public/og-image.png"
+type = "image"
+title = "og social sharing image"

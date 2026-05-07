@@ -1,0 +1,463 @@
+# MASTER REPLIT WEBSITE GENERATION PROMPT
+
+Create a complete premium personal brand agency website for **Ahsan Waqas**, inspired by the structure, conversion strategy, layout flow, and premium feel of this reference website:
+
+Reference Website:
+https://workwithnouman.com/
+
+IMPORTANT:
+This website should ONLY take inspiration from the layout structure, UI/UX flow, conversion strategy, section hierarchy, and premium design feel of the reference website.
+
+DO NOT copy:
+
+* exact text
+* branding
+* images
+* graphics
+* testimonials
+* icons
+* code
+* case studies
+
+Everything must be original and customized for Ahsan Waqas.
+
+---
+
+## PROJECT TYPE
+
+Build a fully responsive modern:
+
+* Personal Brand Website
+* SEO Agency Website
+* WordPress Expert Portfolio
+* Lead Generation Website
+
+The website should look:
+
+* Premium
+* Modern
+* Fast
+* Clean
+* Corporate
+* Trustworthy
+* Conversion Focused
+
+Use:
+
+* Dark modern UI
+* Smooth animations
+* Premium spacing
+* Professional typography
+* Mobile-first responsive design
+
+---
+
+## BRAND DETAILS
+
+Brand Name:
+Ahsan Waqas
+
+Tagline:
+Senior WordPress Developer & SEO Specialist
+
+Experience:
+15+ Years Experience
+
+Main Expertise:
+
+* WordPress Development
+* SEO Optimization
+* Technical SEO
+* WooCommerce Development
+* Elementor Expert
+* Website Speed Optimization
+* Shopify SEO
+* Local SEO
+* On-Page SEO
+* SEO Audits
+* Conversion Optimization
+
+---
+
+## SOCIAL LINKS
+
+WhatsApp:
+https://api.whatsapp.com/send?phone=923463256941
+
+Pinterest:
+https://www.pinterest.com/ahsan142p/
+
+Facebook:
+https://www.facebook.com/Ahsan142p/
+
+Instagram:
+https://www.instagram.com/ahsan142p/
+
+Upwork:
+https://upwork.com/freelancers/ahsan1
+
+Fiverr:
+https://fiverr.com/ahsan142p
+
+LinkedIn:
+https://pk.linkedin.com/in/ahsan142p
+
+Linktree:
+https://linktr.ee/ahsanwaqas
+
+Email:
+[ahsanwaqas142@gmail.com](mailto:ahsanwaqas142@gmail.com)
+
+---
+
+## DESIGN REQUIREMENTS
+
+Color Palette:
+
+* Primary: #2563EB
+* Dark Background: #0F172A
+* Secondary Dark: #111827
+* White: #FFFFFF
+* Light Gray: #F3F4F6
+
+Typography:
+Use modern premium fonts like:
+
+* Inter
+  OR
+* Poppins
+
+Design Style:
+
+* Similar premium structure feel as workwithnouman.com
+* Minimal
+* Modern
+* High-end agency look
+* Smooth hover effects
+* Subtle animations
+* Sticky header
+* Floating WhatsApp button
+* Glassmorphism elements where needed
+
+---
+
+## HEADER
+
+Create a premium sticky header with:
+
+* Logo text: Ahsan Waqas
+* Navigation menu
+* CTA button: Book Free Consultation
+
+Menu Items:
+
+* Home
+* About
+* Services
+* Case Studies
+* Pricing
+* Blog
+* Contact
+
+Mobile responsive hamburger menu required.
+
+---
+
+## HOMEPAGE STRUCTURE
+
+Create a complete homepage with these sections:
+
+1. Hero Section
+
+* Strong SEO-focused headline
+* Supporting paragraph
+* CTA buttons
+* Professional image placeholder
+* Results stats
+
+Example style:
+"Helping Businesses Grow with SEO & WordPress Solutions"
+
+2. Trusted By / Tools Section
+   Show:
+
+* WordPress
+* WooCommerce
+* Elementor
+* Ahrefs
+* SEMrush
+* Google Analytics
+* Shopify
+
+3. Services Section
+   Create premium service cards for:
+
+* WordPress Development
+* Technical SEO
+* WooCommerce Development
+* Shopify SEO
+* Local SEO
+* Website Speed Optimization
+* SEO Audits
+* Elementor Design
+* On-Page SEO
+
+4. Results / Stats Section
+   Show animated counters:
+
+* Years Experience
+* Websites Built
+* SEO Projects
+* Client Satisfaction
+
+5. Case Studies Section
+   Create professional case study cards with:
+
+* Before/After metrics
+* Traffic growth
+* SEO improvements
+* Speed optimization
+* Conversion growth
+
+6. Why Choose Me Section
+   Highlight:
+
+* 15+ years experience
+* SEO + Development combination
+* Conversion focused approach
+* Technical expertise
+
+7. Testimonials Section
+   Create stylish testimonial cards.
+
+8. Process Section
+   4-step process:
+
+* Discovery
+* Strategy
+* Development
+* Growth
+
+9. FAQ Section
+   SEO optimized FAQs with schema-ready structure.
+
+10. Final CTA Section
+    Strong conversion-focused CTA.
+
+---
+
+## ABOUT PAGE
+
+Create a detailed About page including:
+
+* Professional introduction
+* Experience timeline
+* Skills
+* Achievements
+* Certifications style section
+* Mission & vision
+* Why clients trust Ahsan Waqas
+
+---
+
+## SERVICES PAGE
+
+Create a modern services page with separate sections for:
+
+* WordPress Development
+* SEO Optimization
+* WooCommerce Solutions
+* Elementor Design
+* Shopify SEO
+* Technical SEO
+* Speed Optimization
+* SEO Audits
+
+Each service should include:
+
+* benefits
+* features
+* process
+* CTA
+
+---
+
+## CASE STUDIES PAGE
+
+Create a professional case studies page similar in structure to the reference website but with original content.
+
+Include:
+
+* project overview
+* challenge
+* solution
+* results
+* SEO metrics
+* screenshots placeholders
+
+---
+
+## PRICING PAGE
+
+Create 3 pricing packages:
+
+* Starter
+* Growth
+* Premium
+
+Include:
+
+* features
+* CTA buttons
+* highlighted recommended plan
+
+---
+
+## BLOG PAGE
+
+Create:
+
+* Blog archive page
+* Single blog page template
+* SEO optimized layout
+* Sidebar
+* Categories
+* Search option
+
+Blog categories:
+
+* SEO
+* WordPress
+* WooCommerce
+* Elementor
+* Technical SEO
+* AI SEO
+
+---
+
+## CONTACT PAGE
+
+Create:
+
+* Contact form
+* WhatsApp CTA
+* Email info
+* Social icons
+* Calendly placeholder
+* Google Maps placeholder
+
+---
+
+## FOOTER
+
+Create a premium footer with:
+
+* About text
+* Quick links
+* Services links
+* Social icons
+* Contact information
+* Copyright
+
+---
+
+## SEO REQUIREMENTS
+
+Implement FULL ON-PAGE SEO.
+
+Include:
+
+* Proper H1-H6 hierarchy
+* SEO optimized title tags
+* Meta descriptions
+* Open Graph tags
+* Twitter cards
+* Canonical tags
+* Schema markup
+* FAQ schema
+* Organization schema
+* Breadcrumb schema
+* Optimized internal linking
+* Semantic HTML
+* Fast loading structure
+* Lazy loading images
+* Alt tags
+* SEO friendly URLs
+* Sitemap ready structure
+
+Target keywords naturally:
+
+* WordPress Developer
+* SEO Specialist
+* Technical SEO Expert
+* WooCommerce Developer
+* Elementor Expert
+* Shopify SEO Expert
+* Website Speed Optimization
+* SEO Consultant
+
+---
+
+## TECHNICAL REQUIREMENTS
+
+Use:
+
+* Next.js OR React modern structure
+* Tailwind CSS
+* Framer Motion animations
+* Fully responsive design
+* Clean reusable components
+* Fast loading
+* Optimized performance
+* Modern folder structure
+
+Include:
+
+* reusable components
+* reusable cards
+* animations
+* loading optimization
+
+---
+
+## EXTRA FEATURES
+
+Add:
+
+* Sticky CTA button
+* Floating WhatsApp button
+* Scroll animations
+* Smooth scrolling
+* Mobile optimization
+* Conversion-focused layout
+* Lead generation forms
+* CTA sections throughout website
+* Modern hover effects
+* Premium transitions
+
+---
+
+## IMPORTANT FINAL INSTRUCTIONS
+
+The final website should:
+
+* feel premium like workwithnouman.com
+* have completely original content
+* be fully responsive
+* be SEO optimized
+* look modern and professional
+* be ready for deployment
+* be structured for lead generation
+
+Generate:
+
+* complete pages
+* all components
+* navigation
+* footer
+* SEO setup
+* responsive layouts
+* animations
+* reusable design system
+* proper folder structure
+* production-ready code

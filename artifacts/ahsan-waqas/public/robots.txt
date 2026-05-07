@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahsanwaqas.com/sitemap.xml
